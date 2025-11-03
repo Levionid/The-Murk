@@ -1,0 +1,37 @@
+:root {
+  /* Palette */
+  --color-background-base: #000000;
+  --color-background-canvas: #000000;
+  --color-background-overlay-strong: rgba(0, 0, 0, 0.9);
+  --color-background-overlay-soft: rgba(0, 0, 0, 0.65);
+  --color-background-panel: #000000;
+  --color-accent-primary: #32FF32;
+  --color-accent-primary-bright: #4ADE80;
+  --color-accent-primary-soft: rgba(50, 255, 50, 0.35);
+  --color-accent-primary-shadow: rgba(50, 255, 50, 0.3);
+  --color-accent-secondary: #22C55E;
+  --color-neutrals-text-high: #E8FFE8;
+  --color-neutrals-text-base: #4ADE80;
+  --color-neutrals-text-muted: #15803D;
+  --color-neutrals-placeholder: #166534;
+  --color-neutrals-divider: #064E3B;
+  --color-status-warning: #FACC15;
+  --color-status-error: #F87171;
+  --color-status-error-border: #B91C1C;
+  --color-status-success: #86EFAC;
+  --color-status-info: #22C55E;
+
+  /* Typography */
+  --font-family-base: "Courier New", Courier, monospace;
+  --font-weight-title: 600;
+  --letter-spacing-title: 0.25em;
+  --font-weight-body: 400;
+  --font-size-body: 18px;
+  --line-height-body: 1.6;
+  --font-weight-small: 400;
+  --font-size-small: 14px;
+  --line-height-small: 1.4;
+  --font-weight-headline: 700;
+  --font-size-headline: 60px;
+  --line-height-headline: 1.1;
+}
